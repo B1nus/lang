@@ -1,0 +1,15 @@
+"hello"
+abba = 0ABC192
+
+call(0, 5)
+
+fun(hello, b u8) u8, u8
+	case b
+		1
+			print(1)
+		2
+			print(69)
+		_
+			print(nada kada bush)
+	return things
+
