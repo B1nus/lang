@@ -11,8 +11,8 @@
   - maps (Open-addressing hashmap)
   - sets (-- || -- hashset) 
   - ranges
-- loop
-- match
+- loop (pattern matching condition)
+- match (pattern matching)
 - Pattern matching
 - Generic functions
 - Generic user types
