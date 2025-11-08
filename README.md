@@ -16,5 +16,5 @@
 - Pattern matching
 - Generic functions
 - Generic user types
-- Arithmetic operators (^!*/-+=!=<><=>=) (chained operators allowed!)
+- Arithmetic operators (^,!,*,/,-,+,=,!=,<,>,<=,>=) (chained operators allowed!)
 - Boolean operators (and, or, not, xor) (warning if ambiguous)
