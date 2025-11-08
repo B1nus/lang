@@ -1,0 +1,20 @@
+# What I want
+- Sum types
+- Non manual-memory management
+- Multiple return
+- (questionable) Functions instead of Traits
+- (questionable) Functions instead of methods but with syntax sugar as if they are methods.
+- Compile time args/fields
+- Built in support (with parameters) for
+  - arrays (statically sized)
+  - lists (dynamic arrays and linked lists)
+  - maps (Open-addressing hashmap)
+  - sets (-- || -- hashset) 
+  - ranges
+- loop
+- match
+- Pattern matching
+- Generic functions
+- Generic user types
+- Arithmetic operators (^!*/-+=!=<><=>=) (chained operators allowed!)
+- Boolean operators (and, or, not, xor) (warning if ambiguous)
