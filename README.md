@@ -11,6 +11,7 @@
   - maps (Open-addressing hashmap)
   - sets (-- || -- hashset) 
   - ranges
+- list/map/set Comprehension
 - loop (pattern matching condition)
 - match (pattern matching)
 - Pattern matching
