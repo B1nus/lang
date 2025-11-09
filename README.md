@@ -4,6 +4,7 @@
 - Multiple return (solved using algebraic datatypes (anonymous tuples (just expressions followed by eachother)))
 - (questionable) Functions instead of Traits (declare dependence on functions as compile time args)
 - (questionable) Functions instead of methods but with syntax sugar as if they are methods.
+- (questionable) Define tupels/structs only without names. Just types follow by eachother. Makes declaration really easy. Has downsides though. Names can be useful.
 - type aliases (no type declaration necessary with convenient algebraic type syntax (tuples and variants/enums))
 - Compile time args/fields
 - Built in support (with parameters) for
