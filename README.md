@@ -1,7 +1,7 @@
 # What I want
 - Sum types
 - Non manual-memory management
-- Multiple return
+- Multiple return (solved using algebraic datatypes (anonymous tuples (just expressions followed by eachother)))
 - (questionable) Functions instead of Traits (declare dependence on functions as compile time args)
 - (questionable) Functions instead of methods but with syntax sugar as if they are methods.
 - type aliases (no type declaration necessary with convenient algebraic type syntax (tuples and variants/enums))
