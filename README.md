@@ -4,6 +4,7 @@
 - Multiple return
 - (questionable) Functions instead of Traits (declare dependence on functions as compile time args)
 - (questionable) Functions instead of methods but with syntax sugar as if they are methods.
+- type aliases (no type declaration necessary with convenient algebraic type syntax (tuples and variants/enums))
 - Compile time args/fields
 - Built in support (with parameters) for
   - arrays (statically sized)
