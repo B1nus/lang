@@ -1,4 +1,7 @@
 # What I want
+- (important) Live programming (like scratch)
+- Simple output (rendering/sound)
+- Simple user input (mouse/keyboard/controller/touch)
 - Sum types
 - Non manual-memory management
 - Multiple return (solved using algebraic datatypes (anonymous tuples (just expressions followed by eachother)))
