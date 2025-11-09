@@ -2,7 +2,7 @@
 - Sum types
 - Non manual-memory management
 - Multiple return
-- (questionable) Functions instead of Traits
+- (questionable) Functions instead of Traits (declare dependence on functions as compile time args)
 - (questionable) Functions instead of methods but with syntax sugar as if they are methods.
 - Compile time args/fields
 - Built in support (with parameters) for
@@ -19,3 +19,4 @@
 - Generic user types
 - Arithmetic operators (^,!,*,/,-,+,=,!=,<,>,<=,>=) (chained operators allowed!)
 - Boolean operators (and, or, not, xor) (warning if ambiguous)
+- (questionable) Make Boolean operators usable for all enum types. No builtin Boolean type necessary.
