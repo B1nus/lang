@@ -27,3 +27,8 @@
 - Arithmetic operators (^,!,*,/,-,+,=,!=,<,>,<=,>=) (chained operators allowed!)
 - Boolean operators (and, or, not, xor) (warning if ambiguous)
 - (questionable) Make Boolean operators usable for all enum types. No builtin Boolean type necessary.
+- Syntax defined entirely in internationally accepted ad standardised symbols (= + : ( ) -> [] {} etc ...)
+- All builtin types have no names, they are used only through symbols [] {} etc ... (hmm integers?) (the bit size is fine, arabic numerals are standardized, unsigned/signed? hmmm, find some nice symbols)
+- ; and {} is allowed but not necessary. Alternatively just use parenthesis
+- user defined names can be in any utf-8 characters (except for the ones used in the syntax ofc) (international. japanese, chinese, korean, swedish etc...)
+- This means capitalization is not viable for differentiating types from values. hmmmm... problematic ...  needs more pondering.
