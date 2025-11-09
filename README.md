@@ -15,7 +15,7 @@
   - ranges
   - chars (just syntax sugar for an integer (it's the utf-8 code-point))
   - strings (just syntax sugar for an array of bytes)
-  - Any size of integers (Signed: Sxx, Unsigned: Uxx)
+  - Any size of integers (Signed: -xx, Unsigned: +xx) (I am not so sure about the symbol choice here, as well as only using symbols. Maybe it's a bad idea)
   - different bases (hex, oct, decimal, binary)
 - recursive userdefined data-types (could make builtin linked lists unnecessary which is good)
 - first-class functions/functions as values
