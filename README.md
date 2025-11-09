@@ -7,10 +7,11 @@
 - Compile time args/fields
 - Built in support (with parameters) for
   - arrays (statically sized)
-  - lists (dynamic arrays and linked lists) (builtin linked lists might be unnecessary)
+  - lists (dynamic arrays and linked lists)
   - maps (Open-addressing hashmap)
   - sets (-- || -- hashset) 
   - ranges
+- recursive userdefined data-types (could make builtin linked lists unnecessary which is good)
 - first-class functions/functions as values
 - list/map/set Comprehension
 - loop (pattern matching condition)
