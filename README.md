@@ -38,3 +38,4 @@
 - This means capitalization is not viable for differentiating types from values. hmmmm... problematic ...  needs more pondering.
 - It would mean that types and values need to be separated in the syntax somehow. Which might be problematic. Or maybe even a good thing. (: operator could solve it i guess)
 - (questionable) Functions defined through pattern matching (like in haskell)
+- (very questionable) Allow users to define functions using symbols. (not syntax symbols ofc)
